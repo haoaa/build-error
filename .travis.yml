@@ -1,6 +1,6 @@
-language: node
+language: node_js
 
-sudo:: false
+sudo: false
 
 cache:
   apt: true
