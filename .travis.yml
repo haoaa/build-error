@@ -14,5 +14,5 @@ install:
   - cd ./test/smoke
   - npm install -D
 
-scripts:
+script:
   - npm test
